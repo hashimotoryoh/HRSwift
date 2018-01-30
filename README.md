@@ -1,6 +1,6 @@
 # HRSwift
 
-[![CI Status](http://img.shields.io/travis/hashimotoryoh/HRSwift.svg?style=flat)](https://travis-ci.org/hashimotoryoh/HRSwift)
+[![CI Status](http://img.shields.io/travis/Ryoh%20Hashimoto/HRSwift.svg?style=flat)](https://travis-ci.org/Ryoh%20Hashimoto/HRSwift)
 [![Version](https://img.shields.io/cocoapods/v/HRSwift.svg?style=flat)](http://cocoapods.org/pods/HRSwift)
 [![License](https://img.shields.io/cocoapods/l/HRSwift.svg?style=flat)](http://cocoapods.org/pods/HRSwift)
 [![Platform](https://img.shields.io/cocoapods/p/HRSwift.svg?style=flat)](http://cocoapods.org/pods/HRSwift)
@@ -22,7 +22,7 @@ pod 'HRSwift'
 
 ## Author
 
-hashimotoryoh, hashimotoryoh@gmail.com
+Ryoh Hashimoto, hashimotoryoh@gmail.com
 
 ## License
 
