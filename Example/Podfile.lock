@@ -13,7 +13,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  HRSwift: 15f490dc881b5c69c80edac88cefc97dd2b0124c
+  HRSwift: 072263275320f04e7585c70a3e6576fd9bbad1ac
   Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
   Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
 
