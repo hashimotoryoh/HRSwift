@@ -21,7 +21,6 @@
 		22E9F6FA56858A5F7A5D664E5968ECB0 /* NMBExceptionCapture.h in Headers */ = {isa = PBXBuildFile; fileRef = 88CCA655A571DD68102067AFB473BD77 /* NMBExceptionCapture.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		25D1805055756CAA69A167CA03B2465C /* ContainElementSatisfying.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DD6CC02AD6D4C0E7D1169EF9ECB3706 /* ContainElementSatisfying.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
 		29A65FF7D1752DFFF87F5DC8F55CE859 /* ToSucceed.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE295D4D0ED3F1666C5921320F0E2C6 /* ToSucceed.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
-		300D2EB2CD94F0A8427EFF964ECDE34E /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956D7AE1DE49A32DDC1B88DC22A138A7 /* ReplaceMe.swift */; };
 		317F8ED48ACDC2B7350296DC40308576 /* World+DSL.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65B4CDEF78BF13177A9303C1E765E5F6 /* World+DSL.swift */; };
 		31C39ED8CB1C9317F1F2840FC919662D /* PostNotification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E0D34DBF4CE55E4FF1BADBA826F9389 /* PostNotification.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
 		32B38992751B96F21324BFC9923BFCBD /* AssertionDispatcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 495BFC3F9A44D525D4BFC5B10557E6C3 /* AssertionDispatcher.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
@@ -238,7 +237,6 @@
 		911F935B8A2B94FA9FA0A52E9C6470B1 /* HRSwift.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HRSwift.xcconfig; sourceTree = "<group>"; };
 		9245B48A46AAC45502A6B8A2AB745038 /* HooksPhase.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HooksPhase.swift; path = Sources/Quick/Hooks/HooksPhase.swift; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		956D7AE1DE49A32DDC1B88DC22A138A7 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = HRSwift/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
 		95F526FB4BC95B98881D9F2CE746A14E /* Nimble.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Nimble.xcconfig; sourceTree = "<group>"; };
 		9BEDA324814DE4AA9069D085E687EA29 /* Pods_HRSwift_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HRSwift_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C78BF27F3A2B7B1368FE2E4317B6557 /* DSL.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DSL.swift; path = Sources/Quick/DSL/DSL.swift; sourceTree = "<group>"; };
@@ -352,7 +350,6 @@
 		2A33F8893B73536179229B447F8D2FC4 /* HRSwift */ = {
 			isa = PBXGroup;
 			children = (
-				956D7AE1DE49A32DDC1B88DC22A138A7 /* ReplaceMe.swift */,
 				E27BA44820206F60007FC5D1 /* HRDEBUG.swift */,
 				E27BA44A20206F69007FC5D1 /* HRApplicationUtility.swift */,
 				E27BA44C20206F72007FC5D1 /* Extensions */,
@@ -865,7 +862,6 @@
 			files = (
 				E27BA44920206F61007FC5D1 /* HRDEBUG.swift in Sources */,
 				EB6A4E6B31E4DB82030DD51596F4F1BC /* HRSwift-dummy.m in Sources */,
-				300D2EB2CD94F0A8427EFF964ECDE34E /* ReplaceMe.swift in Sources */,
 				E27BA44B20206F69007FC5D1 /* HRApplicationUtility.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
