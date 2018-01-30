@@ -32,6 +32,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'HRSwift/Classes/**/*'
+  s.exclude_files = 'Example'
 
   # s.resource_bundles = {
   #   'HRSwift' => ['HRSwift/Assets/*.png']
